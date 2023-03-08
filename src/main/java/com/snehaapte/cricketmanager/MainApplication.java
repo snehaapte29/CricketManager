@@ -1,4 +1,4 @@
-package com.snehaapte.practice.springstarterproject;
+package com.snehaapte.cricketmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
