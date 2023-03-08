@@ -8,11 +8,11 @@
         <version>2.6.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.snehaapte.practice</groupId>
-    <artifactId>springstarterproject</artifactId>
+    <groupId>com.snehaapte</groupId>
+    <artifactId>cricketmanager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springstarterproject</name>
-    <description>Basic Spring starter project</description>
+    <name>cricketmanager</name>
+    <description>Cricket Data Management project</description>
     <packaging>jar</packaging>
     <properties>
         <java.version>9</java.version>

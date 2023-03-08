@@ -1,4 +1,4 @@
-package com.snehaapte.practice.springstarterproject.controller;
+package com.snehaapte.cricketmanager.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
